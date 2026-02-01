@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArreglosOMP/ArreglosOMP.vcxproj" Id="564aa7ac-eba3-4713-ac2e-6afac14be6ac" />
+</Solution>

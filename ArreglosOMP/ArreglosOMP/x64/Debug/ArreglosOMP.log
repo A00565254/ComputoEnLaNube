@@ -1,0 +1,4 @@
+﻿  ArreglosOMP.cpp
+C:\Users\memoc\OneDrive\Documentos\Maestría IA\T3\PruebasSoftware\proyectosOMP\ArreglosOMP\ArreglosOMP\ArreglosOMP.cpp(31,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\memoc\OneDrive\Documentos\Maestría IA\T3\PruebasSoftware\proyectosOMP\ArreglosOMP\ArreglosOMP\ArreglosOMP.cpp(32,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ArreglosOMP.vcxproj -> C:\Users\memoc\OneDrive\Documentos\Maestría IA\T3\PruebasSoftware\proyectosOMP\ArreglosOMP\x64\Debug\ArreglosOMP.exe
